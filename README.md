@@ -1,4 +1,4 @@
-# KidsMakeMath
+# Personal Whishlist
 
 [![IDE](https://img.shields.io/badge/Xcode-11.7-blue.svg)](https://developer.apple.com/xcode/)
 [![Language](https://img.shields.io/badge/swift-5-orange.svg)](https://swift.org)
@@ -15,29 +15,29 @@
 
 <p align="center">
   <p align="center">
-     A simple calculator for kids. It still needs some improvements.
+     An small whishlist app to trainig some skill.
     <br />
     <br />
-    <a href="https://github.com/mpassosferreira/KidsMakeMath/issues">Report Bug</a>
+    <a href="https://github.com/mpassosferreira/PersonalWhishlist/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mpassosferreira/KidsMakeMath/issues">Request Feature</a>
+    <a href="https://github.com/mpassosferreira/PersonalWhishlist/issues">Request Feature</a>
     <br />
     <br />
-    <img src="images/one.png" alt="Screen Shoot Iphone 11" width="250" height="500">
-    <img src="images/two.png" alt="Screen Shoot Iphone 11" width="250" height="500">
+    <img src="images/one.png"  width="250" height="500">
+    <img src="images/two.png"  width="250" height="500">
   </p>
  </p>
   
 ### About The Project
 
-First project created for an IOS development course taught by Digital House in partnership with the SANTANDER CODERS program.
+An small whishlist app to trainig some skill.
 
 
 ### Installation
 
 1.  Clone the repo
 ```sh
-git clone https://github.com/mpassosferreira/KidsMakeMath.git
+git clone https://github.com/mpassosferreira/PersonalWhishlist.git
 ```
 
 ### Contributing
