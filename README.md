@@ -15,7 +15,7 @@
 
 <p align="center">
   <p align="center">
-     An small whishlist app to training some skill.
+     An small whishlist app to training some skills.
     <br />
     <br />
     <a href="https://github.com/mpassosferreira/PersonalWhishlist/issues">Report Bug</a>
@@ -30,7 +30,7 @@
   
 ### About The Project
 
-An small whishlist app to trainig some skills.
+An small whishlist app to training some skills.
 
 
 ### Installation
