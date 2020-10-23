@@ -30,7 +30,7 @@
   
 ### About The Project
 
-An small whishlist app to trainig some skill.
+An small whishlist app to trainig some skills.
 
 
 ### Installation
